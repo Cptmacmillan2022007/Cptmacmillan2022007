@@ -6,7 +6,6 @@
 
 <p align="center">
   <a herf="https://github.com/Cptmacmillan2022007">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?
-username=Cptmacmillan2022007&hide_title=true&include_all_commits=true&bg_color=100,00ffff,0080ff&title_color=fff&text_color=fff" />
+    <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cptmacmillan2022007&title_color=4169e1&text_color=00ffff&bg_color=00a6ff,00ccff,006aff&hide_border=true)]/>
   </a>
 </p>
